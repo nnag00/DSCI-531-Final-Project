@@ -9,4 +9,4 @@ Using data and new technology in the criminal justice system is not a novel idea
 Data
 The main dataset used in our analysis is the publicly available Census of Public and Private Juvenile Detention, Correctional, and Shelter Facilities, 1986-1987: [United States]. These data include the population, demographics, and characteristics of every facility holding youths in custody in the United States in early 1987.
 
-
+* Due to some widgets used in our "BERT Analysis" Python Notebook, you will need to download the file onto your local computer to view its content.
